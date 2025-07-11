@@ -16,4 +16,4 @@
 
 平台不断优化内容和推荐系统，为您提供个性化的影片推荐，使您的观看体验更加丰富和有趣。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link](https://github.com/fkt20250711/fkt8 )</span>
